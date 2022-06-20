@@ -1,2 +1,2 @@
 # BMS
-Battery Management Board for Carnegie Mellon Racing's 2022 Accumulator
+Battery Management Board for Carnegie Mellon Racing's 2022 Accumulator. 4 layer, double sided PCB, designed around Texas Instrument's BQ76PL455A Battery Management ASIC. Utilizes board-to-board connectors to reduce the number of wire harnesses. Supports up to 9 voltage channels to be measured and 12 thermistor channels to be measured. Thermistor inputs are augmented with a mux that expands on the 8 built-in thermistor inputs.
